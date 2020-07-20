@@ -3,6 +3,7 @@ Rencana Brand MFJR
   * Tentukan Nama Channel
   * Tentukan Tema
     - Video Memasak
+    - Film Pendek
   * Upload Video Portfolio
 - Buat Website
   * Portofolio
