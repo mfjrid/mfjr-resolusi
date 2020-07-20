@@ -5,6 +5,8 @@ Rencana Brand MFJR
     - Video Memasak
     - Film Pendek
   * Upload Video Portfolio
+    - Video Pernikahan
+    - Video Memasak
 - Buat Website
   * Portofolio
 - Buat Banyak Video Portfolio
