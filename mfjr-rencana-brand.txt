@@ -3,6 +3,7 @@ Rencana Brand MFJR
   * Tentukan Nama Channel
   * Tentukan Tema
   * Upload Video Portfolio
+    - Video Pernikahan
+    - Video Memasak
 - Buat Website
-- Buat Banyak Video Portfolio
 - Buat Halaman Portfolio di Website
